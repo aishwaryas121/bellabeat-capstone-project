@@ -13,6 +13,7 @@ Key Recommendations: Implement low-barrier activation campaigns for new/sedentar
 
 
 🛠️ Tools Used
+
 Data Source: Public FitBit Fitness Tracker Data (via Kaggle)
 
 Data Processing/Cleaning: Microsoft Excel / Google Sheets
