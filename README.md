@@ -3,7 +3,7 @@ This repository contains the analysis and business recommendations derived from 
 
 
 
-Results Summary: Analysis revealed a fundamental user engagement gap: nearly three-quarters of the user base (\mathbf{76\%}) is classified as Sedentary or Lightly Active. This presents a critical marketing challenge focused less on advanced upsells and more on low-barrier activation and habit formation to drive long-term user retention.
+Results Summary: Analysis revealed a fundamental user engagement gap: nearly three-quarters of the user base 76% is classified as Sedentary or Lightly Active. This presents a critical marketing challenge focused less on advanced upsells and more on low-barrier activation and habit formation to drive long-term user retention.
 
 
 
