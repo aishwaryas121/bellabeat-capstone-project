@@ -51,6 +51,6 @@ The success of the new marketing campaign should be measured by the transition r
 
 **Appendix: Visualization**
           The full interactive dashboard containing these two key visualizations is available on Tableau Public.
-          **[Bellabeat Consumer Trends]   (https://public.tableau.com/views/BellabeatMarketingTrends/BellabeatMarketingTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+          [Bellabeat Consumer Trends]   (https://public.tableau.com/views/BellabeatMarketingTrends/BellabeatMarketingTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
               
