@@ -31,7 +31,7 @@ Core Segmentation Metrics:
        The segmentation visualization clearly shows that the majority of the user base falls into the Sedentary and Lightly Active groups. This indicates a high proportion of users are either new to fitness tracking or struggle with consistent, high-intensity engagement. This segment is the largest growth opportunity. 
        
 *     **Finding 2.Low Calorie Efficiency in Sedentary Users:** 
-       The scatter plot(Distance vs. Calories by Activity) and its trend lines reveal that Sedentary and Lightly Active users have a flatter slope compared to Active users. This means they burn significantly fewer calories        for the distance they walk or move.
+       The scatter plot(Distance vs. Calories by Activity) and its trend lines reveal that Sedentary and Lightly Active users have a flatter slope compared to Active users. This means they burn significantly fewer calories for the distance they walk or move.
        * Implication:Low-Activity users are not benefiting optimally from the device,increasing the risk of disengagement and churn.
        
 **IV. Actionable Recommendations:**
