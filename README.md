@@ -18,7 +18,6 @@ Data Source: Public FitBit Fitness Tracker Data (via Kaggle)
 
 Data Processing/Cleaning: Microsoft Excel / Google Sheets
 
-Analysis & Visualization: Tableau Public
+Analysis & Visualization: Tableau Public 
 
 Reporting: R Markdown / RStudio
-[Bellabeat Markeeting Trends] (https://public.tableau.com/views/BellabeatMarketingTrends/BellabeatMarketingTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
