@@ -8,6 +8,7 @@ Results Summary: Analysis revealed a fundamental user engagement gap: nearly thr
 
 
 **📊 Project Overview:**
+
 **Problem:** Identify trends in smart device usage to recommend strategic actions to increase user engagement and retention for the Bellabeat app.
 
 **Key Insight:** The user base is dominated by low-activity (Sedentary/Lightly Active) users (approx. 76%), making user activation the primary marketing challenge.
